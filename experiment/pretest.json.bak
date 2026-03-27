@@ -1,0 +1,51 @@
+
+  [
+    {
+      "question":
+        "A multiplexer using basic gates is shown in the figure given image002. If A = B = 11 and D0 D1 D2 D3 = 1001, then the output of the circuit is:   \n <img src='images/Ex2preQ1.png'  /> ", 
+      "qid": 1,
+        "option_a": "zero", 
+        "option_b": "one", 
+        "option_c": "",                 
+        "option_d": ""  ,                
+      
+      "correct_option": "b"
+    },
+
+    {
+      "question":
+        "What if the select inputs in image002are set to A = B = 0 1 and the data inputs are set to D0 D1 D2 D3 = 0100? The output Y is:", 
+      "qid": 2,
+        "option_a": "zero", 
+        "option_b": "one", 
+        "option_c": "V^2",                  
+      "option_d": "1/V"  ,                
+      
+      "correct_option": "b"
+    }, 
+    
+
+    {
+      "question": "How many select lines are required for a 4: 1 Mux?",
+      "qid": 3,
+        "option_a": "Two",
+        "option_b": "Four",
+        "option_c": "Five",
+        "option_d": "Eight",
+      
+      "correct_option": "a"
+    },
+
+    {
+      "question":
+        "Any multiplexer can be designed using universal logic gates. State True or False.",
+      "qid": 4,
+        "option_a": "True",
+        "option_b": "False",
+        "option_c": "",
+        "option_d": "",
+      
+      "correct_option": "a"
+    }
+
+  ]
